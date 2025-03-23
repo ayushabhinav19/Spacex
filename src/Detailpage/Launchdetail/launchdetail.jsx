@@ -36,7 +36,7 @@ export let Launch = ({ payloadname, idname, weight }) => {
           <div className="launchstatus">{idname}</div>
         </div>
       </div>
-      <div className="launchdate">{weight}</div>
+      <div className="launchdate">{`${weight} KG`}</div>
     </div>
   );
 };
