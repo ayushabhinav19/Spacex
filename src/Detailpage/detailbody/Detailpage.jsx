@@ -1,4 +1,4 @@
-import './Detailpage.css';
+import './detailpage.css';
 import { useParams } from 'react-router';
 import { Navbar } from '../../Homepage/Navbar/Navbar';
 import { Statusbar } from '../statusbar/statusbar';
