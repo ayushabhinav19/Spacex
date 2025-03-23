@@ -16,7 +16,7 @@ export let Launchdetail = ({ rocketdetails }) => {
   return (
     <div className="launchdetailmaindiv">
       <div className="specstext">
-        <p>Launch History</p>
+        <p>Payload Details</p>
       </div>
 
       {dataArray}

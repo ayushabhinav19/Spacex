@@ -31,7 +31,9 @@ export const Detailpage = ({ name }) => {
 
   return (
     <div className="detailpage">
-      <Navbar heading={'Rocket Exploror'}></Navbar>
+      <a href="/">
+        <Navbar heading={'Go Back'}></Navbar>
+      </a>
 
       <div className="detailmaindiv">
         <Statusbar></Statusbar>
