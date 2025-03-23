@@ -1,0 +1,16 @@
+.navbarborderbox {
+  border-bottom: 1px solid white;
+  padding: 16px 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nacbarheadingdiv {
+  width: fit-content;
+  font-weight: bold;
+}
+
+.nacbarheadingdiv:hover {
+  border-bottom: 1px solid rgb(250, 199, 199);
+  text-shadow: 0 0 10px rgba(0, 247, 255, 0.5);
+}

@@ -1,0 +1,15 @@
+/* .detailpage{
+    border: 1px solid pink;
+} */
+
+.detailmaindiv {
+  /* border: 1px solid; */
+  display: flex;
+  padding: 13px;
+}
+
+.profilemaindiv {
+  display: flex;
+  flex-wrap: wrap;
+  width: 85%;
+}

@@ -1,0 +1,23 @@
+/* .homediv{
+    border: 1px solid rgb(239, 92, 92);
+} */
+
+.hometextdiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+.hometext {
+  border-bottom: 1px solid rgb(236, 182, 182);
+}
+
+.cardmaindiv {
+  padding: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 23px;
+}
