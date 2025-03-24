@@ -1,27 +1,29 @@
 🚀 SpaceX Rockets Explorer
 
-An interactive web application that provides information about SpaceX rockets. Users can view different rockets on the main page and click on them to access a detailed page with more information.
+An interactive web application that fetches real-time SpaceX rocket details using an API. Users can browse rockets, view images, and click on them to access in-depth information.
 
 🌟 Features
-🛰️ Browse SpaceX Rockets – Displays various rockets with images and country details.
+🛰️ Real-Time SpaceX Data – Fetches live rocket details using the SpaceX API.
 
-🔍 Detailed Rocket Info – Clicking on a rocket opens a page with more information.
+🔍 Detailed Rocket Pages – Clicking a rocket card opens a page with specifications and more.
 
-🎨 Dark-Themed UI – Sleek and modern space-inspired design.
+🎨 Modern UI – Dark-themed, sleek, and interactive design.
 
-📡 API Integration – Fetches real-time SpaceX data.
+📡 Dynamic API Integration – Automatically updates data without manual input.
 
 🛠️ Tech Stack
 Frontend: React, JavaScript, HTML, CSS
 
-Styling: CSS 
+Styling:  CSS 
 
 Data Fetching: Axios
 
 
-Click on any rocket card to open a detailed page about it.
+Open the website to browse SpaceX rockets.
 
-Navigate to name list to explore other rockets.
+Click on a rocket card to view full specifications (thrust, height, cost, success rate, etc.).
+
+Navigate back to explore other rockets.
 
 
 🤝 Contributing
